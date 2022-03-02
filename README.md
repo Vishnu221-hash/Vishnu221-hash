@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is Vishnuvardhini, a third year student at SRM Institute of Science and Technology pursuing my Bachelord degree in the field of COmputer Science and Engineering with a Specialisation in Big Data Analytics.
 <!--
 **Vishnu221-hash/Vishnu221-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
